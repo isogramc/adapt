@@ -3,10 +3,10 @@
     "_type": "course",
     "_classes": "",
     "_htmlClasses": "",
-    "title": "Adapt v5",
-    "displayTitle": "Adapt Version 5",
-    "description": "A sample course demonstrating the capabilities of the Adapt Framework",
-    "body": "Welcome to the demonstration build for version 5 of the Adapt framework.",
+    "title": "Training for rain ING",
+    "displayTitle": "Training for rain ING",
+    "description": "This is so much fun! I think I will just make a thousand...",
+    "body": "Welcome, Bienvenu, Wilkommen!",
     "instruction": "",
     "_buttons": {
         "_submit": {
@@ -66,7 +66,7 @@
             }
         }
     },
-    "_latestTrackingId": 19,
+    "_latestTrackingId": 20,
     "_pageLevelProgress": {
         "_isEnabled": true,
         "_showPageCompletion": false,

@@ -62,5 +62,13 @@
         "title": "a-20",
         "displayTitle": "",
         "body": ""
+    },
+    {
+        "_id":"a-50",
+        "_parentId":"co-25",
+        "_type":"article",
+        "_classes":"",
+        "title":"Article first title",
+        "body":"Body text for article"
     }
 ]
