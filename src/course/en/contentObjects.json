@@ -75,14 +75,15 @@
         "_id": "co-25",
         "_parentId": "course",
         "_type": "page",
-        "_classes": "",
+        "_classes": "assessment",
+        "_htmlClasses": "",
         "title": "Training on tap",
         "displayTitle": "Training on tap",
-        "pageBody": "<strong>Scroll down to see what presentation components are available as part of the Version 2.0 core bundle.</strong>",
         "body": "Find out what presentation components are available within the core bundle and how you might consider using them within your courses. ",
-        "graphic": {
-            "src": "course/en/images/menu_thumb.jpg",
-            "alt": "Placeholder graphic."
+        "pageBody": "<strong>Scroll down to see what presentation components are available as part of the Version 2.0 core bundle.</strong>",
+         "_graphic": {
+            "src": "course/en/images/menu-item.png",
+            "alt": ""
         },
         "linkText":"View",
         "duration": "2 mins",
